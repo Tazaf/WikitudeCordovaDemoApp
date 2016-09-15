@@ -23,4 +23,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="com.wikitude.phonegap.WikitudePlugin" spec="https://github.com/Wikitude/wikitude-cordova-plugin.git" />
 </widget>
