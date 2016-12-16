@@ -16,7 +16,7 @@
   ```
   cordova prepare
   ```
-5. You'll need to register in the Wikitude 
+5. You'll need to register in the Wikitude website on order to obtain a Trial Licence Key.
 4. With your device plugged in your computer, install the app:
   
   ```
