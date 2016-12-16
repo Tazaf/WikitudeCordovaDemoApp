@@ -1,6 +1,6 @@
 # WikitudeCordovaDemoApp
 
-**I didn't develop this application. It's only a more easily installable version of the official Wikitude Cordova Plugin Demo App.**
+**I didn't develop this application. It's only a more easily installable version of the official [Wikitude Cordova Plugin Demo App](https://github.com/Wikitude/wikitude-cordova-plugin-samples).**
 
 ## Install
 1. Clone or download this repository
