@@ -16,7 +16,7 @@
   ```
   cordova prepare
   ```
-5. You'll need to register on the Wikitude website in order to obtain a Trial Licence Key. More information [here](https://github.com/Tazaf/ionicitude#wikitude-licence-key).
+5. You'll need to register on the Wikitude website in order to obtain a Trial Licence Key. More information [here](https://github.com/Tazaf/ionicitude/wiki/Installing-the-Wikitude-plugin#wikitude-licence-key).
 4. With your device plugged in your computer, install the app:
   
   ```
