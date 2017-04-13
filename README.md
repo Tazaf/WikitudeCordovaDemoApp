@@ -5,7 +5,7 @@
 ## Install
 1. Clone or download this repository
 2. Navigate on the newly created folder
-3. Install the platform on which you want to insall this app
+3. Install the platform on which you want to install this app
 
   (**Be sure to install at least the version 5.0.0 of the android platform, otherwise the compilation will fail.**) :
   ```
